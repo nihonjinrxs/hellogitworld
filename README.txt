@@ -1,3 +1,5 @@
+This should have been in here as well
+
 Mainline bug fix
 
 This is a sample project students can use during Matthew's Git class.
